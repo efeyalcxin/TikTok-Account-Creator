@@ -1,0 +1,6 @@
+requests
+python-dateutil
+selenium
+undetected-chromedriver
+opencv-python
+numpy
