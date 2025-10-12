@@ -9,9 +9,5 @@
 * Basic Username
 * Uses MAIL.TM
 
-*Looking for an version with all bypasses, captcha solver support, resi proxies support, Less Captcha and Flag Purcentage*
-dm -> @srcxd
-
-
-
-# NEW VERSION COMING SOON (NO SELENIUM)
+https://github.com/src244/tiktok-app
+More Paid tools
